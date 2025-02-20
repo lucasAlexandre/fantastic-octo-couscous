@@ -1,4 +1,4 @@
-# Awesome fantastic-octo-couscous [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome fantastic-octo-couscous ![Awesome](https://awesome.re/badge.svg)
 
 > Esse Projeto é o desenvolvimento de um teste que me foi aplicado em 17/02/2025.
 
