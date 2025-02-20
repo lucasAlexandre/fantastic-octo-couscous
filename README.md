@@ -54,6 +54,47 @@ Devemos prover os seguintes modelos de seguros:
 }
 ```
 
+## Abaixo Explicarei como é feita a chamada para a aplicação
+
+
+- É só realizar uma chamada para:
+  
+```console
+localhost:8080/valuation/test
+```
+- Contendo o JSON que desejar exemplo:
+```console
+{
+  "customer": {
+    "name": "João",
+    "cpf": "123.456.789-10",
+    "age": 29,
+    "location": "BH",
+    "valor_veiculo": 70000
+  }
+}
+```
+- A resposta devera conter:
+```console
+{
+    "customer": {
+        "name": "João"
+    },
+    "insurances": [
+        {
+            "type": "basic",
+            "cost": 2
+        }
+    ]
+}
+```
+
+- A collection do Postman esta no arquivo (enviado por Email):
+```console
+TesteCollection.postman_collection
+```
+  
+
 
 ## Abaixo Explicarei como foram tratados os pontos de atenção:
 
