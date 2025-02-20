@@ -1,0 +1,14 @@
+br\com\testeitau\config\util\ConfigUtils.class
+br\com\testeitau\model\ValuationTest.class
+br\com\testeitau\config\InsuranceConfigurationTest.class
+br\com\testeitau\model\CustomerTest.class
+br\com\testeitau\controller\CucumberTestRunner.class
+br\com\testeitau\model\util\ModelUtils.class
+br\com\testeitau\controller\util\FeatureUtils.class
+br\com\testeitau\model\ValuationResponseTest.class
+br\com\testeitau\business\ValuationBusinessTest.class
+br\com\testeitau\controller\steps\ValuationControllerTest.class
+br\com\testeitau\business\util\BusinessUtils.class
+br\com\testeitau\controller\steps\CucumberConfiguration.class
+br\com\testeitau\TesteItauApplicationTests.class
+br\com\testeitau\model\InsuranceTest.class

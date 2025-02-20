@@ -1,0 +1,9 @@
+{
+  "customer": {
+    "name": "João",
+    "cpf": "123.456.789-10",
+    "age": 29,
+    "location": "BH",
+    "valor_veiculo": 70000
+  }
+}

@@ -1,0 +1,9 @@
+insurance:
+  parameters:
+    minValue: 70000
+    maxValue: 100000
+    minAge: 30
+    statesTarget: SP
+logging:
+  level:
+    ROOT: DEBUG

@@ -1,0 +1,9 @@
+br\com\testeitau\enumeration\InsuranceType.class
+br\com\testeitau\model\Insurance.class
+br\com\testeitau\TesteItauApplication.class
+br\com\testeitau\config\InsuranceConfiguration.class
+br\com\testeitau\model\Valuation.class
+br\com\testeitau\controller\ValuationtController.class
+br\com\testeitau\model\ValuationResponse.class
+br\com\testeitau\model\Customer.class
+br\com\testeitau\business\ValuationBusiness.class
